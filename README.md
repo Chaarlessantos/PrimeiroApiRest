@@ -1,0 +1,3 @@
+Após uma base sólida de estudos em lógica de programação e orientação a objetos nas linguagens Java, JavaScript e Python, iniciei minha trajetória no desenvolvimento Back-End com a construção de uma API RESTful. Esse projeto foi desenvolvido com Java (Spring Boot), utilizando PostgreSQL como banco de dados e documentado com Swagger OpenAPI, garantindo uma estrutura robusta e bem documentada para facilitar a integração.
+
+Este é o primeiro estágio do projeto, que seguirá para o desenvolvimento do Front-End, onde utilizarei bibliotecas como Bootstrap para estilização e o framework Angular para construção de uma interface de usuário dinâmica e responsiva. Planejo expandir o projeto com a implementação de autenticação e autorização, visando segurança e escalabilidade.
